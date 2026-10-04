@@ -4,7 +4,7 @@ Submitted by: **Andrei Endelman**
 
 **Memory Game** is a SwiftUI app where players flip cards to find matching pairs. The app tracks moves, hides matched cards, and supports resetting or changing the number of pairs.
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
